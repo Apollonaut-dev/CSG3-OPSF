@@ -1,0 +1,1 @@
+// to optimize DCS, try to limit SSE code to only execute the first tenth of every second. Maybe there is a way to make sure it can only use 10% of time to run.

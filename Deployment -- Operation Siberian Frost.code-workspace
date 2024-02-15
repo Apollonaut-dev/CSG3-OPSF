@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../_MoosePkg/Moose Development/Moose"
+		},
+		{
+			"path": "../../Logs"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,     
+			"**/_Moose": true,
+			"**/scripts V9": true
+		}
+	}
+}
